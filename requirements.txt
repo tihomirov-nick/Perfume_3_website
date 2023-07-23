@@ -1,0 +1,9 @@
+selenium
+sqlite3
+selenium-stealth
+undetected-chromedriver
+numpy
+fake-useragent
+pandas
+requests
+tqdm
